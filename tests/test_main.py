@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from src.algorithm import main
+from algorithm import main
 
 TEST_DATA_DIR = Path(__file__).resolve().parent / 'data'
 
