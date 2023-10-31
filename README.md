@@ -12,8 +12,13 @@ my_project/
 ```
 
 1. You should update your [algorithm.py](algorithm.py) script.
-2. Put the necessary files there [expect](tests%2Fdata%2Fexpect) and [input](tests%2Fdata%2Finput).
-3. Run pytest
+2. Put your input in [input.txt](input.txt)
+
+**Enjoy**
+
+Not necessary:
+1. Put the tests files there [expect](tests%2Fdata%2Fexpect) and [input](tests%2Fdata%2Finput).
+2. Run pytest
 ```bash
 pytest
 ```
